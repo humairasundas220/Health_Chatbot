@@ -65,6 +65,14 @@ fatigue, dizziness, and headache. If symptoms become severe, seek medical care.
 
 ---
 
+
+## Demo
+
+![Demo](images/chatbot_demo.png)
+
+---
+
+
 ## Future Improvements
 
 - Streamlit Web Application
