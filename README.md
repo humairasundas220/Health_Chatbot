@@ -68,7 +68,7 @@ fatigue, dizziness, and headache. If symptoms become severe, seek medical care.
 
 ## Demo
 
-![Demo](images/chatbot_demo.png)
+![Demo](images/Screenshot (24).png)
 
 ---
 
